@@ -129,6 +129,11 @@ _G.packer_plugins = {
     path = "/Users/yggdrasill501/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  ["notebook.nvim"] = {
+    loaded = true,
+    path = "/Users/yggdrasill501/.local/share/nvim/site/pack/packer/start/notebook.nvim",
+    url = "https://github.com/meatballs/notebook.nvim"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/Users/yggdrasill501/.local/share/nvim/site/pack/packer/start/nvim-cmp",
