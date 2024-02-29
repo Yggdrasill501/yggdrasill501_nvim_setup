@@ -39,4 +39,5 @@ return require('packer').startup(function(use)
 		{'rafamadriz/friendly-snippets'},
 	}
 }
+use {"meatballs/notebook.nvim"}
 end)
