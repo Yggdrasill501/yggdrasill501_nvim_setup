@@ -1,5 +1,8 @@
-vim.opt.nu = true
+--[[vim.opt.nu = true
+require("yggdrasill501.set")
 vim.opt.relativenumber = false
+
+vim.opt.clipboard = "unnamedplus"
 
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
@@ -26,4 +29,4 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.updatetime = 50
 
-vim.opt.colorcolumn = "200"
+vim.opt.colorcolumn = "200"--]]
