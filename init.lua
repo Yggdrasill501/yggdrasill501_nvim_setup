@@ -111,3 +111,6 @@ vim.api.nvim_create_autocmd('TextYankPost', {
   end,
 })
 -- Add Lazy her if needed :uwu
+
+
+
