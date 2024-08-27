@@ -17,7 +17,7 @@ Learn how to configure lua_ls reading the guide in the help page
 Learn how to customize nvim-cmp reading the guide in the help page
 :help lsp-zero-guide:customize-nvim-cmp
 
-============= Welcome to my Neovim setup ==================
+=================== Neovim setup ==========================
 ===========================================================
 ===                                    .-----.          ===
 ===         .----------------------.   | === |          ===
