@@ -16,7 +16,7 @@ Learn how to configure lua_ls reading the guide in the help page
 [lsp-zero] The function .setup_nvim_cmp() has been removed.
 Learn how to customize nvim-cmp reading the guide in the help page
 :help lsp-zero-guide:customize-nvim-cmp
-
+```lua
 =================== Neovim setup ==========================
 ===========================================================
 ===                                    .-----.          ===
@@ -34,3 +34,4 @@ Learn how to customize nvim-cmp reading the guide in the help page
 ===      '""""""""""""'  '""""""""""""'  '""""""""""'   ===
 ===                                                     ===
 ===========================================================
+```
