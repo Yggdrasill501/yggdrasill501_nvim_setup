@@ -2,8 +2,7 @@
 - feel free to clone and use it 
 - clone into .config/nvim/
 - source with ```:so``` each file
-- to download everything in packer use ```:PackerSync```
-
+- 
 ## Need to Edit
 [lsp-zero] The function .ensure_installed() has been removed.
 Use the module mason-lspconfig to install your LSP servers.
